@@ -7,6 +7,16 @@ JSON API for Wapuus in the World.
 
 https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 
+## Schemes
+
+* id: The unique ID of your Wapuu.
+* name: The name of your Wapuu.
+* github_url: The GitHub repository of your wapuu.
+* wapuu_url: The URL to your Wapuu image file. Image file should be jpeg or gif or png.
+* mimetype: `image/gif` or `image/jpeg` or `image/png`
+* author: Your name.
+* author_url: Your URL.
+
 ## How to Add your Wapuu
 
 1. Fork this repository.
