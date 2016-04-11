@@ -1,5 +1,5 @@
 id,wapuu.name,wapuu.repository,wapuu.url,wapuu.src,wapuu.mime_type,author.name,author.url,description
-"original-wapuupng","Wapuu","","https://ja.wordpress.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/original-wapuu.png","image/png","Kazuko Kaneuchi","https://twitter.com/mutsuking",""
+"original-wapuupng","Wapuu","https://github.com/jawordpressorg/wapuu","https://ja.wordpress.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/original-wapuu.png","image/png","Kazuko Kaneuchi","https://twitter.com/mutsuking","Original Wapuu"
 "tonkotsu-wapuupng","Tonkotsu Wapuu","","http://example.com/","https://jawordpressorg.github.io/wapuu/wapuu-archive/tonkotsu-wapuu.png","image/png","Kazuko Kaneuchi","https://twitter.com/mutsuking",""
 "wck-wapuupng","WordCamp Kansai 2014","https://github.com/spicagraph/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wck-wapuu.png","image/png","Ayaka Sumida","",""
 "wctokyo_wapuupng","WordCamp Tokyo 2014","https://github.com/WordCampTokyo2014/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wctokyo_wapuu.png","image/png","Yasushi Takemoto","",""
