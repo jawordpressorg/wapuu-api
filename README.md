@@ -11,8 +11,8 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 
 * id: The unique ID of your Wapuu.
 * name: The name of your Wapuu.
-* github_url: The GitHub repository of your wapuu.
-* wapuu_url: The URL to your Wapuu image file. Image file should be jpeg or gif or png.
+* github_url: The GitHub repository of your Wapuu.
+* wapuu_url: The URL to your Wapuu's image file. Image file should be JPEG or GIF or PNG.
 * mimetype: `image/gif` or `image/jpeg` or `image/png`
 * author: Your name.
 * author_url: Your URL.
