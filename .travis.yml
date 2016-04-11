@@ -5,6 +5,7 @@ branches:
 before_script: bash ./deploy/prepare.sh
 script:
 - ls -al deploy/v1/wapuu.json
+- cat deploy/v1/wapuu.json | jq .
 after_success: bash ./deploy/deploy.sh
 env:
   global:
