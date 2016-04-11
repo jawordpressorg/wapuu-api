@@ -12,20 +12,11 @@ if [[ "master" != "$TRAVIS_BRANCH" ]]; then
 	exit
 fi
 
-rm -rf .git
-rm -r .gitignore
-
-echo ".travis.yml
-bin
-gulpfile.js
-node_modules
-package.json
-tests
-wapuu.csv" > .gitignore
+cd deploy/
 
 git init
 git config user.name "Travis CI"
 git config user.email "miya+github.com@wpist.me"
-git add .
+git add v1
 git commit --quiet -m "Deploy from travis"
 git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages > /dev/null 2>&1

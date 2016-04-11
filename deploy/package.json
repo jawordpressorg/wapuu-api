@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "GPLv2",
   "dependencies": {
+    "comma-separated-values": "^3.6.4",
     "gulp": "^3.9.1",
     "gulp-csv2json": "^0.2.5",
     "gulp-rename": "^1.2.2"

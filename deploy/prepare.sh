@@ -2,5 +2,8 @@
 
 set -e
 
+cd deploy/
+
 npm install
-npm run build
+mkdir v1
+node csv2json.js > v1/wapuu.json
