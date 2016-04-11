@@ -1,3 +1,4 @@
 id,name,github_url,wapuu_url,mimetype,author,author_url
 wapuu,Wapuu,https://github.com/jawordpressorg/wapuu,https://raw.githubusercontent.com/jawordpressorg/wapuu/gh-pages/wapuu-original/wapuu-original.png,image/png,Kazuko Kaneuchi,https://ja.wordpress.org
 tonkotsu-wapuu,Tonkotsu Wapuu,https://github.com/jawordpressorg/wapuu,http://jawordpressorg.github.io/wapuu/wapuu-archive/tonkotsu-wapuu.png,image/png,Kazuko Kaneuchi,http://jawordpressorg.github.io/wapuu/
+wck-wapuu,Wapuu for WordCamp Kansai 2014,https://github.com/spicagraph/wapuu,http://jawordpressorg.github.io/wapuu/wapuu-archive/wck-wapuu.png,image/png,Ayaka Sumida,https://2014.kansai.wordcamp.org/
