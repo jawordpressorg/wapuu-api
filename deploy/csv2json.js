@@ -12,6 +12,7 @@ fs.readFile('../wapuu.csv', 'utf8', function (err, text) {
     row.wapuu = {};
     row.wapuu.name = line['wapuu.name'];
     row.wapuu.url = line['wapuu.url'];
+    row.wapuu.repository = line['wapuu.repository'];
     row.wapuu.src = line['wapuu.src'];
     row.wapuu.mime_type = line['wapuu.mime_type'];
     row.author = {};
