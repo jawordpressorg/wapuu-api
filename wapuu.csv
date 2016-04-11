@@ -1,3 +1,3 @@
-id,name,github-url,wapuu-url,wapuu-mimetype,author,url
+id,name,github_url,wapuu_url,mimetype,author,author_url
 wapuu,Wapuu,https://github.com/jawordpressorg/wapuu,https://raw.githubusercontent.com/jawordpressorg/wapuu/gh-pages/wapuu-original/wapuu-original.png,image/png,Kazuko Kaneuchi,https://ja.wordpress.org
 tonkotsu-wapuu,Tonkotsu Wapuu,https://github.com/jawordpressorg/wapuu,http://jawordpressorg.github.io/wapuu/wapuu-archive/tonkotsu-wapuu.png,image/png,Kazuko Kaneuchi,http://jawordpressorg.github.io/wapuu/
