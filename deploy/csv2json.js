@@ -2,7 +2,7 @@ var fs = require('fs');
 var csv = require("comma-separated-values");
 var stdout = process.stdout;
 
-fs.readFile('./wapuu.csv', 'utf8', function (err, text) {
+fs.readFile('../wapuu.csv', 'utf8', function (err, text) {
   var result = new csv(text, { header: true }).parse();
   var data = [];
   for (var i=0; i<result.length; i++) {
