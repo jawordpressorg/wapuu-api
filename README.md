@@ -3,6 +3,8 @@
 
 JSON API for Wapuus in the World.
 
+[See more about Wapuu.](http://jawordpressorg.github.io/wapuu/)
+
 ## Endpoint
 
 https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
