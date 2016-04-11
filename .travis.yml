@@ -2,10 +2,10 @@ language: node_js
 branches:
   only:
   - master
-before_script: bash ./bin/prepare.sh
+before_script: bash ./deploy/prepare.sh
 script:
 - ls -al v1/wapuu.json
-after_success: bash ./bin/deploy.sh
+after_success: bash ./deploy/deploy.sh
 env:
   global:
   - GH_REF: github.com/jawordpressorg/wapuu-api.git
