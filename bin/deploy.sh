@@ -12,6 +12,9 @@ if [[ "master" != "$TRAVIS_BRANCH" ]]; then
 	exit
 fi
 
+rm -rf .git
+rm -r .gitignore
+
 echo ".travis.yml
 bin
 gulpfile.js
