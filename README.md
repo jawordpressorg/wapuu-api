@@ -5,7 +5,7 @@ JSON API for Wapuus in the World.
 
 ## Endpoint
 
-https://jawordpressorg.github.io/wapuu-api/v2/wapuu.json
+https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 
 ## How to Add your Wapuu
 
