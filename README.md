@@ -9,13 +9,35 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 
 ## Schemes
 
-* id: The unique ID of your Wapuu.
-* name: The name of your Wapuu.
-* github_url: The GitHub repository of your Wapuu.
-* wapuu_url: The URL to your Wapuu's image file. Image file should be JPEG or GIF or PNG.
-* mimetype: `image/gif` or `image/jpeg` or `image/png`
-* author: Your name.
-* author_url: Your URL.
+```
+[
+  {
+    "name": "original-wapuupng",
+    "wapuu": {
+      "name": "Wapuu",
+      "url": "https://ja.wordpress.org/",
+      "repository": "https://github.com/jawordpressorg/wapuu",
+      "src": "https://jawordpressorg.github.io/wapuu/wapuu-archive/original-wapuu.png",
+      "mime_type": "image/png"
+    },
+    "author": {
+      "name": "Kazuko Kaneuchi",
+      "url": "https://twitter.com/mutsuking"
+    },
+    "description": "Original Wapuu"
+  },
+  ...
+```
+
+* name - The unique name of your Wapuu. Please input using half-width English numbers and letters and hyphen.
+* wapuu.name - The name of Wapuu.
+* wapuu.url - The URL to the site. e.g. https://xxx.wordcamp.org/
+* wapuu.repository - The repository URL of your Wapuu. In many case, it is GitHub's URL.
+* wapuu.src - The image url of the Wapuu. It should be GIF or PNG or JPEG.
+* wapuu.mime_type - The mime_type of your Wapuu. It should be image/png or so.
+* author.name - Author's name.
+* author.url - Author's URL.
+* description - The description of your Wapuu.
 
 ## How to Add your Wapuu
 
