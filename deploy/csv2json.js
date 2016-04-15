@@ -1,6 +1,5 @@
 var fs = require('fs');
 var csv = require("comma-separated-values");
-var stdout = process.stdout;
 
 fs.readFile('../wapuu.csv', 'utf8', function (err, text) {
   var result = new csv(text, { header: true }).parse();
@@ -29,5 +28,6 @@ fs.readFile('../wapuu.csv', 'utf8', function (err, text) {
     }
     data.push(row);
   }
-  stdout.write(JSON.stringify(data));
+
+  fs.writeFile('v1/wapuu.json', JSON.stringify(data));
 });
