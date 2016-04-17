@@ -1,90 +1,91 @@
 id,wapuu.name,wapuu.repository,wapuu.url,wapuu.src,wapuu.mime_type,author.name,author.url,description
-"original-wapuupng","Wapuu","https://github.com/jawordpressorg/wapuu","https://ja.wordpress.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/original-wapuu.png","image/png","Kazuko Kaneuchi","https://twitter.com/mutsuking","Original Wapuu"
-"tonkotsu-wapuupng","Tonkotsu Wapuu","","http://example.com/","https://jawordpressorg.github.io/wapuu/wapuu-archive/tonkotsu-wapuu.png","image/png","Kazuko Kaneuchi","https://twitter.com/mutsuking",""
-"wck-wapuupng","WordCamp Kansai 2014","https://github.com/spicagraph/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wck-wapuu.png","image/png","Ayaka Sumida","",""
-"wctokyo_wapuupng","WordCamp Tokyo 2014","https://github.com/WordCampTokyo2014/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wctokyo_wapuu.png","image/png","Yasushi Takemoto","",""
-"kani-wapuupng","越前がにわぷー","https://github.com/wordbenchfukui/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/kani-wapuu.png","image/png","山森美穂","",""
-"wct2012png","WordCamp Tokyo 2012 たわぷー","","http://2012.tokyo.wordcamp.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wct2012.png","image/png","北村 たあ","",""
-"wct2013png","WordCamp Tokyo 2013 Kabuki Wapuu","","http://2013.tokyo.wordcamp.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wct2013.png","image/png","Takashi Kitamura","",""
-"takoyaki-wapuupng","たこ焼きわぷー","https://github.com/WordBenchOsaka/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/takoyaki-wapuu.png","image/png","たこ焼きわぷーコントリビューターズ","",""
-"dokuganryu-wapuupng","独眼竜わぷー","https://github.com/wbsendai/wapuu/tree/wbsendai","","https://jawordpressorg.github.io/wapuu/wapuu-archive/dokuganryu-wapuu.png","image/png","gatespace","",""
-"onsen-wapuupng","温泉わぷー","https://github.com/wbsendai/wapuu/tree/onsen","","https://jawordpressorg.github.io/wapuu/wapuu-archive/onsen-wapuu.png","image/png","gatespace","",""
-"shikasenbei-wapuupng","鹿せんべいわぷー","https://github.com/shinchaya/nara-wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/shikasenbei-wapuu.png","image/png","shinchaya","",""
-"maikochan-and-wapuupng","舞妓ちゃん＆わぷー","https://github.com/shinchaya-01/maikochan-and-wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/maikochan-and-wapuu.png","image/png","shinchaya","",""
-"scott-wapuupng","Wapuunk!","","http://london.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/scott-wapuu.png","image/png","Scott Evans","",""
-"rocky-wapuupng","Rocky Wapuu","","http://philly.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/rocky-wapuu.png","image/png","Tracy Levesque","",""
-"cheesesteak-wapuupng","Cheesesteak Wapuu","","http://philly.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/cheesesteak-wapuu.png","image/png","Tracy Levesque","",""
-"pretzel-wapuupng","Pretzel Wapuu","","http://philly.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/pretzel-wapuu.png","image/png","Tracy Levesque","",""
-"krimpet-wapuupng","Krimpuu","","http://philly.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/krimpet-wapuu.png","image/png","Tracy Levesque","",""
-"wapuda-shingenpng","わぷ田信玄(Shingenn Wapuda)","https://github.com/natsumiine/wb_yamanashi","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuda-shingen.png","image/png","natsumiine","",""
-"wapuunderpng","Wapuunder","","https://brisbane.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuunder.png","image/png","Kristen Symonds","",""
-"wapuujlopng","Wapuujlo","https://github.com/Kouteki/Wapuujlo/","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuujlo.png","image/png","Nemanja Aleksic","",""
-"wapuu-francepng","Marcel","https://github.com/BoiteAWeb/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-france.png","image/png","Julio Potier (design)","",""
-"WapuuPepapng","WapuuPepa","","https://europe.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/WapuuPepa.png","image/png","Arantza Respaldiza","",""
-"WapuuPepepng","WapuuPepe","","https://europe.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/WapuuPepe.png","image/png","Arantza Respaldiza","",""
-"wapuushkin-wapuupng","Wapuushkin","","https://russia.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuushkin-wapuu.png","image/png","Natalia Spivak","",""
-"sydney-wapuupng","Sydney Wapuu","https://github.com/raoulwegat/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/sydney-wapuu.png","image/png","Raoul Wegat","",""
-"manchester-wapuupng","Wapuubee!","","https://manchester.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/manchester-wapuu.png","image/png","Andi Wilkinson","",""
-"tampa-gasparilla-wapuupng","Gaspwapuua","","https://tampa.wordcamp.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/tampa-gasparilla-wapuu.png","image/png","Travis Seitler","",""
-"basile-wapuupng","Basile","","http://2015.wptech.fr/basile-wapuu-wptech/","https://jawordpressorg.github.io/wapuu/wapuu-archive/basile-wapuu.png","image/png","Willy Bahuaud","",""
-"mineiro-wapuupng","Mineiro","","https://belohorizonte.wordcamp.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/mineiro-wapuu.png","image/png","Rodrigo Brito","",""
-"shachihoko-wapuupng","WordFes 2013 しゃちほこわぷー","","http://2013.wordfes.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/shachihoko-wapuu.png","image/png","うなＱ","",""
-"fes-wapuupng","WordFes 2014 フェスわぷー","","http://2014.wordfes.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/fes-wapuu.png","image/png","うなＱ","",""
-"matsuri-wapuupng","WordFes 2015 祭りわぷー","","http://2015.wordfes.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/matsuri-wapuu.png","image/png","うなＱ","",""
-"wapuu-der-berpng","Wapuu der BER","","https://berlin.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-der-ber.png","image/png","Martin Purrer","",""
-"wapuutah-wapuupng","Wapuutah","","https://slc.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuutah-wapuu.png","image/png","Velda","",""
-"masuzushi-wapuupng","ます寿司わぷー","https://github.com/wbtoyama/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/masuzushi-wapuu.png","image/png","藤田和世","",""
-"edinburgh-wapuupng","Wee Wapuu","https://github.com/northswiss/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/edinburgh-wapuu.png","image/png","Chris Roy","",""
-"wapuu-brainhurtspng","Brain Hurts Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-brainhurts.png","image/png","Michelle","",""
-"wapuu-cheeseheadpng","Cheesehead Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-cheesehead.png","image/png","Michelle","",""
-"wapuu-cosplaypng","Cosplay Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-cosplay.png","image/png","Michelle","",""
-"wapuu-devpng","Dev Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-dev.png","image/png","Michelle","",""
-"wapuu-guitarpng","Guitar Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-guitar.png","image/png","Michelle","",""
-"wapuu-hampton-roadspng","Hampton Roads Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-hampton-roads.png","image/png","Michelle","",""
-"wapuu-heropresspng","Heropress Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-heropress.png","image/png","Michelle","",""
-"wapuu-hipsterpng","Hipster Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-hipster.png","image/png","Michelle","",""
-"wapuu-magicpng","Magic Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-magic.png","image/png","Michelle","",""
-"wapuu-minionpng","Minion Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-minion.png","image/png","Michelle","",""
-"wapuu-motopng","Moto Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-moto.png","image/png","Michelle","",""
-"wapuu-nycpng","NYC Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-nyc.png","image/png","Michelle","",""
-"wapuu-orangepng","Orange Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-orange.png","image/png","Michelle","",""
-"wapuu-pixarpng","Pixar Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-pixar.png","image/png","Michelle","",""
-"wapuu-pizzapng","Pizza Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-pizza.png","image/png","Michelle","",""
-"wapuu-poststatuspng","Post Status Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-poststatus.png","image/png","Michelle","",""
-"wapuu-sleepy-wordcamppng","Sleepy WordCamp Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-sleepy-wordcamp.png","image/png","Michelle","",""
-"wapuu-snitchpng","Snitch Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-snitch.png","image/png","Michelle","",""
-"wapuu-spypng","Spy Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-spy.png","image/png","Michelle","",""
-"wapuu-strugglepng","Struggle Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-struggle.png","image/png","Michelle","",""
-"wapuu-torquepng","Torque Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-torque.png","image/png","Michelle","",""
-"wapuu-travelpng","Travel Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-travel.png","image/png","Michelle","",""
-"wapuu-tronpng","Tron Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-tron.png","image/png","Michelle","",""
-"wapuu-unipiperpng","Unipiper Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-unipiper.png","image/png","Michelle","",""
-"wapuu-wptavernpng","WPTavern Wapuu","https://github.com/marktimemedia/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-wptavern.png","image/png","Michelle","",""
-"sweden-wapuupng","Swedish Wapuu - WordCamp Norrk?ping 2015","","https://norrkoping.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/sweden-wapuu.png","image/png","Stanislav Khromov","",""
-"wapevil-wapuupng","Wapevil","","http://wordpress.tv/2015/07/09/nikolay-bachiyski-a-few-wordpress-security-principles/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapevil-wapuu.png","image/png","Gemma Garner","",""
-"eduwapuupng","Eduwapuu","","https://www.linkedin.com/in/elaineshannon","https://jawordpressorg.github.io/wapuu/wapuu-archive/eduwapuu.png","image/png","Elaine Shannon","",""
-"swiss-wapuupng","Swiss Wapuu","","https://switzerland.wordcamp.org/2015/","https://jawordpressorg.github.io/wapuu/wapuu-archive/swiss-wapuu.png","image/png","Andrew Liyanage","",""
-"wapmas-wapuupng","Wapmas","","https://twitter.com/cftp/status/415482038691450880","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapmas-wapuu.png","image/png","Gemma Garner","",""
-"benpuupng","Benpuu","","https://2015.us.wordcamp.org/2015/11/17/introducing-benpuu/","https://jawordpressorg.github.io/wapuu/wapuu-archive/benpuu.png","image/png","Tracy Levesque","",""
-"taekwon-red-wapuupng","Taekwon Wapuu","","http://blog.hivearena.com/wow-korean-wapuu-appear-in-hive-arena/","https://jawordpressorg.github.io/wapuu/wapuu-archive/taekwon-red-wapuu.png","image/png","Jongsung Choi","",""
-"taekwon-blue-wapuupng","Taekwon Wapuu","","http://blog.hivearena.com/wow-korean-wapuu-appear-in-hive-arena/","https://jawordpressorg.github.io/wapuu/wapuu-archive/taekwon-blue-wapuu.png","image/png","Jongsung Choi","",""
-"heian-wapuupng","平安わぷー","https://github.com/mikodon/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/heian-wapuu.png","image/png","みこどん＠茶道楽","",""
-"okita-wapuupng","沖田わぷー","https://github.com/466548/okita-wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/okita-wapuu.png","image/png","466548","",""
-"wapumura-kenshinpng","Wapumura kenshin","https://github.com/466548/wapuu","","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapumura-kenshin.png","image/png","466548","",""
-"mercenary-wapuupng","Mercenary Wapuu","","http://wpmercs.com/","https://jawordpressorg.github.io/wapuu/wapuu-archive/mercenary-wapuu.png","image/png","Raul Illana","",""
-"wapuu-alaafpng","WapuuAlaaf","","https://2015.cologne.wordcamp.org/dat-es-wapuualaaf-us-koelle/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-alaaf.png","image/png","Thomas Br?hl","",""
-"sunshinecoast-wapuupng","Wapoolaba","","https://2016.sunshinecoast.wordcamp.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/sunshinecoast-wapuu.png","image/png","Rob Stinson","",""
-"london2016-wapuupng","Steampunk Wapuu","","https://2016.london.wordcamp.org/","https://jawordpressorg.github.io/wapuu/wapuu-archive/london2016-wapuu.png","image/png","Barbara Marcantonio","",""
-"bapuu-wapuupng","Bapuu","","https://www.behance.net/ganeshkerkar","https://jawordpressorg.github.io/wapuu/wapuu-archive/bapuu-wapuu.png","image/png","Ganesh Kerkar","",""
-"wapuu-ji-chaudharypng","Wapuu Ji Chaudhary","","http://hookrefineandtinker.com/wapuu/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-ji-chaudhary.png","image/png","Saurabh Shukla","",""
-"shikari-wapuupng","Shikari Wapuu","","http://hookrefineandtinker.com/wapuu/","https://jawordpressorg.github.io/wapuu/wapuu-archive/shikari-wapuu.png","image/png","Saurabh Shukla","",""
-"wapuu-tigerpng","Tiger Wapuu","","http://hookrefineandtinker.com/wapuu/","https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-tiger.png","image/png","Saurabh Shukla","",""
-"r2-wapuupng","r2, the rtCamp Wapuu","","https://www.rtcamp.com/","https://jawordpressorg.github.io/wapuu/wapuu-archive/r2-wapuu.png","image/png","Ganesh Kerkar","",""
-"r2wapuupng","R2-Wapuu","","https://www.gemmagarner.com/","https://jawordpressorg.github.io/wapuu/wapuu-archive/r2wapuu.png","image/png","Gemma Garner","http://gemmagarner.com","May the source be with you!"
-"nuremberg-mrs-wapuu","Mrs Nuremberg Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/mrs-nuremberg-wapuu.png","image/png","Silvia Goldhammer","",""
-"nuremberg-mr-wapuu","Mr Nuremberg Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/mr-nuremberg-wapuu.png","image/png","Silvia Goldhammer","",""
-"nuremberg-catering-wapuu","Nuremberg Catering Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/catering-wapuu.png","image/png","Silvia Goldhammer","",""
-"nuremberg-duerer-wapuu","Nuremberg Duerer Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/duerer-wapuu.png","image/png","Sandra Leyh","",""
-"nuremberg-speaker-10min-wapuu","Nuremberg Speaker 10min Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/speaker-10min-wapuu.png","image/png","Silvia Goldhammer","",""
-"nuremberg-speaker-5min-wapuu","Nuremberg Speaker 5min Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/speaker-5min-wapuu.png","image/png","Silvia Goldhammer","",""
-"nuremberg-speaker-stop-wapuu","Nuremberg Speaker stop Wapuu","","https://nuremberg.wordcamp.org/2016/","https://jawordpressorg.github.io/wapuu/wapuu-archive/speaker-stop-wapuu.png","image/png","Silvia Goldhammer","",""
+original-wapuupng,Wapuu,https://github.com/jawordpressorg/wapuu,https://ja.wordpress.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/original-wapuu.png,image/png,Kazuko Kaneuchi,https://twitter.com/mutsuking,Original Wapuu
+tonkotsu-wapuupng,Tonkotsu Wapuu,,http://example.com/,https://jawordpressorg.github.io/wapuu/wapuu-archive/tonkotsu-wapuu.png,image/png,Kazuko Kaneuchi,https://twitter.com/mutsuking,
+wck-wapuupng,WordCamp Kansai 2014,https://github.com/spicagraph/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wck-wapuu.png,image/png,Ayaka Sumida,,
+wctokyo_wapuupng,WordCamp Tokyo 2014,https://github.com/WordCampTokyo2014/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wctokyo_wapuu.png,image/png,Yasushi Takemoto,,
+kani-wapuupng,越前がにわぷー,https://github.com/wordbenchfukui/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/kani-wapuu.png,image/png,山森美穂,,
+wct2012png,WordCamp Tokyo 2012 たわぷー,,http://2012.tokyo.wordcamp.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wct2012.png,image/png,北村 たあ,,
+wct2013png,WordCamp Tokyo 2013 Kabuki Wapuu,,http://2013.tokyo.wordcamp.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wct2013.png,image/png,Takashi Kitamura,,
+takoyaki-wapuupng,たこ焼きわぷー,https://github.com/WordBenchOsaka/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/takoyaki-wapuu.png,image/png,たこ焼きわぷーコントリビューターズ,,
+dokuganryu-wapuupng,独眼竜わぷー,https://github.com/wbsendai/wapuu/tree/wbsendai,,https://jawordpressorg.github.io/wapuu/wapuu-archive/dokuganryu-wapuu.png,image/png,gatespace,,
+onsen-wapuupng,温泉わぷー,https://github.com/wbsendai/wapuu/tree/onsen,,https://jawordpressorg.github.io/wapuu/wapuu-archive/onsen-wapuu.png,image/png,gatespace,,
+shikasenbei-wapuupng,鹿せんべいわぷー,https://github.com/shinchaya/nara-wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/shikasenbei-wapuu.png,image/png,shinchaya,,
+maikochan-and-wapuupng,舞妓ちゃん＆わぷー,https://github.com/shinchaya-01/maikochan-and-wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/maikochan-and-wapuu.png,image/png,shinchaya,,
+scott-wapuupng,Wapuunk!,,http://london.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/scott-wapuu.png,image/png,Scott Evans,,
+rocky-wapuupng,Rocky Wapuu,,http://philly.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/rocky-wapuu.png,image/png,Tracy Levesque,,
+cheesesteak-wapuupng,Cheesesteak Wapuu,,http://philly.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/cheesesteak-wapuu.png,image/png,Tracy Levesque,,
+pretzel-wapuupng,Pretzel Wapuu,,http://philly.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/pretzel-wapuu.png,image/png,Tracy Levesque,,
+krimpet-wapuupng,Krimpuu,,http://philly.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/krimpet-wapuu.png,image/png,Tracy Levesque,,
+wapuda-shingenpng,わぷ田信玄(Shingenn Wapuda),https://github.com/natsumiine/wb_yamanashi,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuda-shingen.png,image/png,natsumiine,,
+wapuunderpng,Wapuunder,,https://brisbane.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuunder.png,image/png,Kristen Symonds,,
+wapuujlopng,Wapuujlo,https://github.com/Kouteki/Wapuujlo/,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuujlo.png,image/png,Nemanja Aleksic,,
+wapuu-francepng,Marcel,https://github.com/BoiteAWeb/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-france.png,image/png,Julio Potier (design),,
+WapuuPepapng,WapuuPepa,,https://europe.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/WapuuPepa.png,image/png,Arantza Respaldiza,,
+WapuuPepepng,WapuuPepe,,https://europe.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/WapuuPepe.png,image/png,Arantza Respaldiza,,
+wapuushkin-wapuupng,Wapuushkin,,https://russia.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuushkin-wapuu.png,image/png,Natalia Spivak,,
+sydney-wapuupng,Sydney Wapuu,https://github.com/raoulwegat/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/sydney-wapuu.png,image/png,Raoul Wegat,,
+manchester-wapuupng,Wapuubee!,,https://manchester.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/manchester-wapuu.png,image/png,Andi Wilkinson,,
+tampa-gasparilla-wapuupng,Gaspwapuua,,https://tampa.wordcamp.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/tampa-gasparilla-wapuu.png,image/png,Travis Seitler,,
+basile-wapuupng,Basile,,http://2015.wptech.fr/basile-wapuu-wptech/,https://jawordpressorg.github.io/wapuu/wapuu-archive/basile-wapuu.png,image/png,Willy Bahuaud,,
+mineiro-wapuupng,Mineiro,,https://belohorizonte.wordcamp.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/mineiro-wapuu.png,image/png,Rodrigo Brito,,
+shachihoko-wapuupng,WordFes 2013 しゃちほこわぷー,,http://2013.wordfes.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/shachihoko-wapuu.png,image/png,うなＱ,,
+fes-wapuupng,WordFes 2014 フェスわぷー,,http://2014.wordfes.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/fes-wapuu.png,image/png,うなＱ,,
+matsuri-wapuupng,WordFes 2015 祭りわぷー,,http://2015.wordfes.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/matsuri-wapuu.png,image/png,うなＱ,,
+wapuu-der-berpng,Wapuu der BER,,https://berlin.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-der-ber.png,image/png,Martin Purrer,,
+wapuutah-wapuupng,Wapuutah,,https://slc.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuutah-wapuu.png,image/png,Velda,,
+masuzushi-wapuupng,ます寿司わぷー,https://github.com/wbtoyama/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/masuzushi-wapuu.png,image/png,藤田和世,,
+edinburgh-wapuupng,Wee Wapuu,https://github.com/northswiss/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/edinburgh-wapuu.png,image/png,Chris Roy,,
+wapuu-brainhurtspng,Brain Hurts Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-brainhurts.png,image/png,Michelle,,
+wapuu-cheeseheadpng,Cheesehead Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-cheesehead.png,image/png,Michelle,,
+wapuu-cosplaypng,Cosplay Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-cosplay.png,image/png,Michelle,,
+wapuu-devpng,Dev Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-dev.png,image/png,Michelle,,
+wapuu-guitarpng,Guitar Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-guitar.png,image/png,Michelle,,
+wapuu-hampton-roadspng,Hampton Roads Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-hampton-roads.png,image/png,Michelle,,
+wapuu-heropresspng,Heropress Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-heropress.png,image/png,Michelle,,
+wapuu-hipsterpng,Hipster Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-hipster.png,image/png,Michelle,,
+wapuu-magicpng,Magic Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-magic.png,image/png,Michelle,,
+wapuu-minionpng,Minion Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-minion.png,image/png,Michelle,,
+wapuu-motopng,Moto Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-moto.png,image/png,Michelle,,
+wapuu-nycpng,NYC Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-nyc.png,image/png,Michelle,,
+wapuu-orangepng,Orange Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-orange.png,image/png,Michelle,,
+wapuu-pixarpng,Pixar Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-pixar.png,image/png,Michelle,,
+wapuu-pizzapng,Pizza Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-pizza.png,image/png,Michelle,,
+wapuu-poststatuspng,Post Status Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-poststatus.png,image/png,Michelle,,
+wapuu-sleepy-wordcamppng,Sleepy WordCamp Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-sleepy-wordcamp.png,image/png,Michelle,,
+wapuu-snitchpng,Snitch Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-snitch.png,image/png,Michelle,,
+wapuu-spypng,Spy Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-spy.png,image/png,Michelle,,
+wapuu-strugglepng,Struggle Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-struggle.png,image/png,Michelle,,
+wapuu-torquepng,Torque Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-torque.png,image/png,Michelle,,
+wapuu-travelpng,Travel Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-travel.png,image/png,Michelle,,
+wapuu-tronpng,Tron Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-tron.png,image/png,Michelle,,
+wapuu-unipiperpng,Unipiper Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-unipiper.png,image/png,Michelle,,
+wapuu-wptavernpng,WPTavern Wapuu,https://github.com/marktimemedia/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-wptavern.png,image/png,Michelle,,
+sweden-wapuupng,Swedish Wapuu - WordCamp Norrk?ping 2015,,https://norrkoping.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/sweden-wapuu.png,image/png,Stanislav Khromov,,
+wapevil-wapuupng,Wapevil,,http://wordpress.tv/2015/07/09/nikolay-bachiyski-a-few-wordpress-security-principles/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapevil-wapuu.png,image/png,Gemma Garner,,
+eduwapuupng,Eduwapuu,,https://www.linkedin.com/in/elaineshannon,https://jawordpressorg.github.io/wapuu/wapuu-archive/eduwapuu.png,image/png,Elaine Shannon,,
+swiss-wapuupng,Swiss Wapuu,,https://switzerland.wordcamp.org/2015/,https://jawordpressorg.github.io/wapuu/wapuu-archive/swiss-wapuu.png,image/png,Andrew Liyanage,,
+wapmas-wapuupng,Wapmas,,https://twitter.com/cftp/status/415482038691450880,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapmas-wapuu.png,image/png,Gemma Garner,,
+benpuupng,Benpuu,,https://2015.us.wordcamp.org/2015/11/17/introducing-benpuu/,https://jawordpressorg.github.io/wapuu/wapuu-archive/benpuu.png,image/png,Tracy Levesque,,
+taekwon-red-wapuupng,Taekwon Wapuu,,http://blog.hivearena.com/wow-korean-wapuu-appear-in-hive-arena/,https://jawordpressorg.github.io/wapuu/wapuu-archive/taekwon-red-wapuu.png,image/png,Jongsung Choi,,
+taekwon-blue-wapuupng,Taekwon Wapuu,,http://blog.hivearena.com/wow-korean-wapuu-appear-in-hive-arena/,https://jawordpressorg.github.io/wapuu/wapuu-archive/taekwon-blue-wapuu.png,image/png,Jongsung Choi,,
+heian-wapuupng,平安わぷー,https://github.com/mikodon/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/heian-wapuu.png,image/png,みこどん＠茶道楽,,
+okita-wapuupng,沖田わぷー,https://github.com/466548/okita-wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/okita-wapuu.png,image/png,466548,,
+wapumura-kenshinpng,Wapumura kenshin,https://github.com/466548/wapuu,,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapumura-kenshin.png,image/png,466548,,
+mercenary-wapuupng,Mercenary Wapuu,,http://wpmercs.com/,https://jawordpressorg.github.io/wapuu/wapuu-archive/mercenary-wapuu.png,image/png,Raul Illana,,
+wapuu-alaafpng,WapuuAlaaf,,https://2015.cologne.wordcamp.org/dat-es-wapuualaaf-us-koelle/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-alaaf.png,image/png,Thomas Br?hl,,
+sunshinecoast-wapuupng,Wapoolaba,,https://2016.sunshinecoast.wordcamp.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/sunshinecoast-wapuu.png,image/png,Rob Stinson,,
+london2016-wapuupng,Steampunk Wapuu,,https://2016.london.wordcamp.org/,https://jawordpressorg.github.io/wapuu/wapuu-archive/london2016-wapuu.png,image/png,Barbara Marcantonio,,
+bapuu-wapuupng,Bapuu,,https://www.behance.net/ganeshkerkar,https://jawordpressorg.github.io/wapuu/wapuu-archive/bapuu-wapuu.png,image/png,Ganesh Kerkar,,
+wapuu-ji-chaudharypng,Wapuu Ji Chaudhary,,http://hookrefineandtinker.com/wapuu/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-ji-chaudhary.png,image/png,Saurabh Shukla,,
+shikari-wapuupng,Shikari Wapuu,,http://hookrefineandtinker.com/wapuu/,https://jawordpressorg.github.io/wapuu/wapuu-archive/shikari-wapuu.png,image/png,Saurabh Shukla,,
+wapuu-tigerpng,Tiger Wapuu,,http://hookrefineandtinker.com/wapuu/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-tiger.png,image/png,Saurabh Shukla,,
+r2-wapuupng,"r2, the rtCamp Wapuu",,https://www.rtcamp.com/,https://jawordpressorg.github.io/wapuu/wapuu-archive/r2-wapuu.png,image/png,Ganesh Kerkar,,
+r2wapuupng,R2-Wapuu,,https://www.gemmagarner.com/,https://jawordpressorg.github.io/wapuu/wapuu-archive/r2wapuu.png,image/png,Gemma Garner,http://gemmagarner.com,May the source be with you!
+nuremberg-mrs-wapuu,Mrs Nuremberg Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/mrs-nuremberg-wapuu.png,image/png,Silvia Goldhammer,,
+nuremberg-mr-wapuu,Mr Nuremberg Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/mr-nuremberg-wapuu.png,image/png,Silvia Goldhammer,,
+nuremberg-catering-wapuu,Nuremberg Catering Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/catering-wapuu.png,image/png,Silvia Goldhammer,,
+nuremberg-duerer-wapuu,Nuremberg Duerer Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/duerer-wapuu.png,image/png,Sandra Leyh,,
+nuremberg-speaker-10min-wapuu,Nuremberg Speaker 10min Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/speaker-10min-wapuu.png,image/png,Silvia Goldhammer,,
+nuremberg-speaker-5min-wapuu,Nuremberg Speaker 5min Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/speaker-5min-wapuu.png,image/png,Silvia Goldhammer,,
+nuremberg-speaker-stop-wapuu,Nuremberg Speaker stop Wapuu,,https://nuremberg.wordcamp.org/2016/,https://jawordpressorg.github.io/wapuu/wapuu-archive/speaker-stop-wapuu.png,image/png,Silvia Goldhammer,,
+wapuu-noypi,Wapuu Noypi,,http://www.meetup.com/Manila-WordPress-Meetup/,https://jawordpressorg.github.io/wapuu/wapuu-archive/wapuu-noypi.png,image/png,Carl Alberto,https://github.com/carl-alberto,Filipino Wapuu
