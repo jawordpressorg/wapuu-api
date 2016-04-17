@@ -47,8 +47,8 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 2. Please add your Wapuu's information into [wapuu.csv](https://github.com/jawordpressorg/wapuu-api/blob/master/wapuu.csv).
 3. Give us pull-request.
 
-You don't need to send pull-request for your Wapuu image to [Wapuu archive](http://jawordpressorg.github.io/wapuu/) repository. :)
-We are hoping that your Wapuu should be in your own GitHub repository.
+You don't need to send pull-request for your Wapuu image to [Wapuu archive](http://jawordpressorg.github.io/wapuu/) repository.
+We are hoping that your Wapuu should be in your own GitHub repository. :smile:
 
 ## Issue or Question
 
