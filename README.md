@@ -31,15 +31,15 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
   ...
 ```
 
-* name - The unique name of your Wapuu. Please input using half-width English numbers and letters and hyphen.
-* wapuu.name - The name of Wapuu.
-* wapuu.url - The URL to the site. e.g. https://xxx.wordcamp.org/
-* wapuu.repository - The repository URL of your Wapuu. In many case, it is GitHub's URL.
-* wapuu.src - The image url of the Wapuu. It should be GIF or PNG or JPEG.
-* wapuu.mime_type - The mime_type of your Wapuu. It should be image/png or so.
-* author.name - Author's name.
-* author.url - Author's URL.
-* description - The description of your Wapuu.
+1. name - The unique name of your Wapuu. Please input using half-width English numbers and letters and hyphen.
+2. wapuu.name - The name of Wapuu.
+3. wapuu.url - The URL to the site. e.g. https://xxx.wordcamp.org/
+4. wapuu.repository - The repository URL of your Wapuu. In many case, it is GitHub's URL.
+5. wapuu.src - The image url of the Wapuu. It should be GIF or PNG or JPEG.
+6. wapuu.mime_type - The mime_type of your Wapuu. It should be image/png or so.
+7. author.name - Author's name.
+8. author.url - Author's URL.
+9. description - The description of your Wapuu.
 
 ## How to Add your Wapuu
 
