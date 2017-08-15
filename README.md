@@ -14,19 +14,25 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 ```
 [
   {
-    "name": "original-wapuupng",
+    "name": "Wapuu-kanpur",
     "wapuu": {
-      "name": "Wapuu",
-      "url": "https://ja.wordpress.org/",
-      "repository": "https://github.com/jawordpressorg/wapuu",
-      "src": "https://jawordpressorg.github.io/wapuu/wapuu-archive/original-wapuu.png",
+      "name": "Kaapu Bhai",
+      "url": "https://2017.kanpur.wordcamp.org/",
+      "repository": "https://github.com/shbhmdvd/Wapuu-kanpur",
+      "src": "https://github.com/shbhmdvd/wapuu-api/blob/master/Kapuu.png",
       "mime_type": "image/png"
     },
     "author": {
-      "name": "Kazuko Kaneuchi",
-      "url": "https://twitter.com/mutsuking"
+      "name": "Shubham Dwivedi",
+      "url": "https://linkbustr17.deviantart.com"
     },
-    "description": "Original Wapuu"
+    "description":KAAPU BHAI is the official mascot for WordCamp Kanpur 2K17.
+
+Kaapu Bhai has got his name from kanpur+wapuu, He represents the life and culture of people here in Kanpur(https://en.wikipedia.org/wiki/Kanpur),for which this wapuu was designed. Everything that this wapuu has is somehow an important part of our lives and i just tried to represent it in a funky way.
+
+Announcement link: https://2017.kanpur.wordcamp.org/2017/06/21/meet-kaapu-bhai/
+
+This is the official mascot named "Kaapu bhai" for WordCamp Kanpur 2017."
   },
   ...
 ```
