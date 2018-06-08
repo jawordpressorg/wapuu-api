@@ -1,6 +1,8 @@
 # Wapuu JSON API
 [![Build Status](https://travis-ci.org/jawordpressorg/wapuu-api.svg?branch=master)](https://travis-ci.org/jawordpressorg/wapuu-api)
 
+[Readme 日本語](README.ja.md)
+
 JSON API for Wapuu in the World.
 
 [See more about Wapuu.](http://jawordpressorg.github.io/wapuu/)
