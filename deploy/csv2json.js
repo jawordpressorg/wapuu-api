@@ -1,7 +1,7 @@
 const fs = require('fs')
 const csv = require('comma-separated-values')
 
-fs.readFile('../wapuu.csv', 'utf8', function (err, text) {
+fs.readFile('./wapuu.csv', 'utf8', function (err, text) {
   const result = new csv(text, {header: true}).parse()
   const data = []
   for (let i = 0; i < result.length; i++) {
