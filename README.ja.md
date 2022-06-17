@@ -4,7 +4,7 @@
 
 わぷーアーカイブのための JSON API
 
-[わぷーアーカイブ](http://jawordpressorg.github.io/wapuu/)
+[わぷーアーカイブ](https://jawordpressorg.github.io/wapuu/)
 
 ## エンドポイント
 
@@ -48,7 +48,7 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 2. [wapuu.csv](wapuu.csv) 内に追加したいわぷーの情報を入力する (JSON ファイルではなく、CSV ファイルを編集する) 。
 3. プルリクエストを送る。
 
-[Wapuu archive](http://jawordpressorg.github.io/wapuu/) のレポジトリに画像を追加するためのプルリクエストを送信する必要はありません。お持ちの GitHub アカウントのレポジトリや gist などに画像を配置し、そちらへの画像 URL を CSV ファイルに記述する URL として使用してください。
+[Wapuu archive](https://jawordpressorg.github.io/wapuu/) のレポジトリに画像を追加するためのプルリクエストを送信する必要はありません。お持ちの GitHub アカウントのレポジトリや gist などに画像を配置し、そちらへの画像 URL を CSV ファイルに記述する URL として使用してください。
 
 ## 質問など
 
