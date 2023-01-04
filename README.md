@@ -1,5 +1,6 @@
 # Wapuu JSON API
-[![Build Status](https://travis-ci.org/jawordpressorg/wapuu-api.svg?branch=master)](https://travis-ci.org/jawordpressorg/wapuu-api)
+
+[Readme 日本語](README.ja.md)
 
 JSON API for Wapuu in the World.
 
@@ -44,11 +45,10 @@ https://jawordpressorg.github.io/wapuu-api/v1/wapuu.json
 ## How to Add your Wapuu
 
 1. Fork this repository.
-2. Please add your Wapuu's information into [wapuu.csv](https://github.com/jawordpressorg/wapuu-api/blob/master/wapuu.csv).
-3. Give us pull-request.
+2. Add your Wapuu information into [wapuu.csv](https://github.com/jawordpressorg/wapuu-api/blob/master/wapuu.csv). You don't need to edit the JSON file since the CI automattically creates it from the CSV file.
+3. Make a pull request in this repository.
 
-You don't need to send pull-request for your Wapuu image to [Wapuu archive](http://jawordpressorg.github.io/wapuu/) repository.
-We are hoping that your Wapuu should be in your own GitHub repository. :smile:
+There's no need to send pull request for your Wapuu image to [Wapuu archive](http://jawordpressorg.github.io/wapuu/) repository, you should have your Wapuu image in your own GitHub repository. :smile:
 
 ## Issue or Question
 

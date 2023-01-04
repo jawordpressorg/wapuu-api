@@ -1,0 +1,45 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  Deploy:
+    name: Deploy
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: npm install
+        run: npm ci
+
+      - name: Convert CSV to JSON
+        run: node deploy/csv2json.js
+
+      - name: Create dist directory
+        run: mkdir dist
+
+      - name: Copy necessary files to dist/
+        run: |
+          cp ./README.md ./dist/README.md
+          cp -r ./v1 ./dist/
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
